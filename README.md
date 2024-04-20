@@ -1,1 +1,3 @@
-# Applied-Data-Science-Capstone_IBM
+# Applied Data Science Capstone Project - IBM
+
+The objective of this capstone project is to predict the likelihood of the Falcon 9 first stage landing successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars. Other providers charge upwards of 165 million dollars each, with significant savings attributed to SpaceX's ability to reuse the first stage. Therefore, if we can determine the probability of a successful landing, we can estimate the cost of a launch. This information can be utilized by an alternative company in the event that it wishes to submit a bid for a rocket launch against SpaceX. 
